@@ -1,5 +1,11 @@
-/.gradle/
 /build/
-/.idea/
 /out/
+/.gradle/
+run/
+/classes/
+/.idea/
+*.iml
 .DS_Store
+Thumbs.db
+logs/
+*.log

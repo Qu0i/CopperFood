@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "copperfood",
+  "version": "${version}",
+  "name": "copperfood",
+  "description": "",
+  "authors": ["Qu0i"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/copperfood/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.qu0i.copperfood.client.CopperfoodDataGenerator"
+    ],
+    "client": [
+      "com.qu0i.copperfood.client.CopperfoodClient"
+    ],
+    "main": [
+      "com.qu0i.copperfood.Copperfood"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

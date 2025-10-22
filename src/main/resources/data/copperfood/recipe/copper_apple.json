@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": "minecraft:copper_ingot",
+    "C": "minecraft:apple"
+  },
+  "result": {
+    "id": "copperfood:copper_apple",
+    "count": 1
+  }
+}
