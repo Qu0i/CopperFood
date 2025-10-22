@@ -14,6 +14,12 @@ Small Fabric mod that adds new copper-based food items to Minecraft.
 ### Copper Carrot
 ![Copper Carrot Recipe](media/copper_carrot_recipe.png)
 
+### Copper Gingerbread
+![Copper Gingerbread Recipe](media/copper_gingerbread_recipe.png)
+
+### Sculk Pie
+![Sculk Pie Recipe](media/sculk_pie_recipe.png)
+
 ---
 
 ## 🧱 Installation
