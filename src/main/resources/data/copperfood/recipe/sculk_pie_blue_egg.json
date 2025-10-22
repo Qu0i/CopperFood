@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:sculk",
+    "minecraft:blue_egg",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "copperfood:sculk_pie",
+    "count": 1
+  }
+}

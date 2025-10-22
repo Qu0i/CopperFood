@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#B#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:copper_nugget",
+    "B": "minecraft:bread"
+  },
+  "result": {
+    "id": "copperfood:copper_gingerbread",
+    "count": 1
+  }
+}
