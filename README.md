@@ -1,6 +1,9 @@
 # Copper Food 🍽️
 Small Fabric mod that adds new copper-based food items to Minecraft.
 
+# ⚠️ Found a bug or something feels off?
+Please open an issue on the [GitHub Issues](https://github.com/Qu0i/CopperFood/issues) page
+
 ## 🧩 Features
 - **Copper Apple** — grants *Haste (90s)* when eaten.
 - **Copper Carrot** — grants *Night Vision (60s)* when eaten.
