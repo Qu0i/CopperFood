@@ -4,10 +4,16 @@ Small Fabric mod that adds new copper-based food items to Minecraft.
 ## 🧩 Features
 - **Copper Apple** — grants *Haste (90s)* when eaten.
 - **Copper Carrot** — grants *Night Vision (60s)* when eaten.
+- **Copper Gingerbread** - **takes 6HP (3 hearts)** in return grants *Strength (60s)*.
+- **Sculk Pie** - clears *Darkness* effect.
 - Balanced hunger and saturation values.
 - Crafted from vanilla ingredients.
 
+
 ## 🧪 Recipes
+<details>
+<summary>Crafting recipes</summary>
+
 ### Copper Apple
 ![Copper Apple Recipe](media/copper_apple_recipe.png)
 
@@ -19,6 +25,8 @@ Small Fabric mod that adds new copper-based food items to Minecraft.
 
 ### Sculk Pie
 ![Sculk Pie Recipe](media/sculk_pie_recipe.png)
+
+</details>
 
 ---
 
@@ -44,4 +52,4 @@ MIT License - do whatever you want, but please credit `qu0i`.
 
 ---
 
-> *Made with 🤍 by `qu0i`*
+> *Made with 🤍 by `qu0i`. Thanks for the textures - `LiQu0rr`*
